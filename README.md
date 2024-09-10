@@ -1,0 +1,1 @@
+# vite-blank-project-with-tailwind
